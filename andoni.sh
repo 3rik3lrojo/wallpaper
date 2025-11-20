@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-URL="http://www.sc.ehu.es/ccwbayes/images/bcalvo.jpg"
+URL="https://yt3.googleusercontent.com/iQb9cdMopc7ul6AYePJ8SoEDdRmEKrQg7POxkEd4o3ahGCsZQOxmGgXuzwspvWdQMebl3JwJYQ=s160-c-k-c0x00ffffff-no-rj"
 WALL="/tmp/wall.jpg"
 
 FILE_URI="file://$WALL"
