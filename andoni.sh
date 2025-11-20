@@ -4,7 +4,7 @@ WALL="/tmp/wall.jpg"
 
 FILE_URI="file://$WALL"
 
-wget -O "$DEST" "$URL"
+wget -O "$WALL" "$URL"
 
 detect_de() {
     if [ "$XDG_CURRENT_DESKTOP" ]; then
